@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /*/pulse
+Disallow: /*/tree/
+Disallow: /gist/
+Disallow: /*/forks
+...
+Disallow: /*/branches
+Disallow: /*/tags
+...
